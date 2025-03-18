@@ -1,0 +1,9 @@
+{
+    "name": "FastNewQuota",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/cmooref17/Lethal-Company-HotbarPlus",
+    "description": "Fast New Quota – This mod significantly speeds up the animation of receiving a new quota after completing the previous one. Have you ever reached day 20-30, completed your quota, and then had to wait through a painfully slow animation? With this mod, the animation will be much faster, and you can adjust the speed in the config file! Speeds up the quota display, removes unnecessary waiting. And compatible with QuotaRollover mod",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
